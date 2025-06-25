@@ -3,8 +3,9 @@
 	import SpaceBackground from '../lib/SpaceBackground.svelte';
 
 	function clickMail() {
-		const email = atob('aGlAbWlrYS1wZXRhay5kZQ==');
-		window.location.href = `mailto:${email}`;
+		const a = "aGlAbWlrYS"
+		const b = atob(a + "1wZXRhay5kZQ==");
+		window.location.href = `mailto:${b}`;
 	}
 </script>
 
