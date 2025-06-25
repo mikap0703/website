@@ -29,7 +29,7 @@
 				Mika Petak
 			</h1>
 			<p class="text-xl text-white/70 mb-8">
-				Cybersecurity Student and Web Development Enthusiast
+				Cybersecurity Student and Web Development Enthusiast.
 			</p>
 		</div>
 
